@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stamb\\Source\\Repos\\Stamba1337\\ItKariera2024\\IvayloMirishe\\IvayloMirishe.csproj": {}
+    "C:\\Users\\stamb\\Source\\Repos\\ItKariera2024\\IvayloMirishe\\IvayloMirishe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stamb\\Source\\Repos\\Stamba1337\\ItKariera2024\\IvayloMirishe\\IvayloMirishe.csproj": {
+    "C:\\Users\\stamb\\Source\\Repos\\ItKariera2024\\IvayloMirishe\\IvayloMirishe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stamb\\Source\\Repos\\Stamba1337\\ItKariera2024\\IvayloMirishe\\IvayloMirishe.csproj",
+        "projectUniqueName": "C:\\Users\\stamb\\Source\\Repos\\ItKariera2024\\IvayloMirishe\\IvayloMirishe.csproj",
         "projectName": "IvayloMirishe",
-        "projectPath": "C:\\Users\\stamb\\Source\\Repos\\Stamba1337\\ItKariera2024\\IvayloMirishe\\IvayloMirishe.csproj",
+        "projectPath": "C:\\Users\\stamb\\Source\\Repos\\ItKariera2024\\IvayloMirishe\\IvayloMirishe.csproj",
         "packagesPath": "C:\\Users\\stamb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stamb\\Source\\Repos\\Stamba1337\\ItKariera2024\\IvayloMirishe\\obj\\",
+        "outputPath": "C:\\Users\\stamb\\Source\\Repos\\ItKariera2024\\IvayloMirishe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stamb\\AppData\\Roaming\\NuGet\\NuGet.Config",
